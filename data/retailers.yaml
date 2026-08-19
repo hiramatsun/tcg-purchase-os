@@ -1,0 +1,7 @@
+schema_version: 1
+coverage:
+  status: not-established
+  scope: null
+  assessed_at: null
+  notes: 全国の店舗を網羅したとはみなさず、一次情報で購入機会が確認できた販売主体・店舗から蓄積する
+retailers: []

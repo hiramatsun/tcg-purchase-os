@@ -161,6 +161,7 @@ tcg-purchase-os/
 ├── data/
 │   ├── preferences.yaml
 │   ├── sources.yaml
+│   ├── retailers.yaml
 │   ├── products.json
 │   ├── opportunities.json
 │   └── outcomes.json

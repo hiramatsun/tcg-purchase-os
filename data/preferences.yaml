@@ -15,5 +15,17 @@ wanted_products: []
 preferred_retailers: []
 excluded_retailers: []
 budget_jpy: null
+location:
+  origin_name: 阪急豊中駅
+  origin_type: station
+  max_one_way_minutes: 60
+  online_opportunities_scope: nationwide
+  store_opportunities_scope: within_max_one_way_minutes
+  transit_modes:
+    - train
+    - bus
+    - walk
+  include_store_opportunities: true
+  include_store_pickup: true
+  notes: オンライン応募は全国を対象にし、店頭応募・店頭販売・店頭受取は阪急豊中駅から公共交通機関で片道60分以内に限定する。オンライン応募でも店頭受取の場合は受取店舗を60分以内で判定する
 notes: null
-

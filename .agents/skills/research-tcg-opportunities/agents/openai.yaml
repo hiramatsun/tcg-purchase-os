@@ -1,4 +1,4 @@
 interface:
   display_name: "Research TCG Opportunities"
-  short_description: "Discover and verify TCG purchase opportunities"
-  default_prompt: "Use $research-tcg-opportunities to find and verify current official purchase opportunities."
+  short_description: "Prioritize near-release lotteries and social restock sightings"
+  default_prompt: "Use $research-tcg-opportunities to find near-release lotteries first, then nearby store restock/sale sightings from official social posts and eyewitness reports within the configured transit range."
