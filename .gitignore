@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.serena/
+.venv/
+__pycache__/
+.pytest_cache/
+

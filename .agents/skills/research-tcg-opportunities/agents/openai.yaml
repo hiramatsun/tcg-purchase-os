@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research TCG Opportunities"
+  short_description: "Discover and verify TCG purchase opportunities"
+  default_prompt: "Use $research-tcg-opportunities to find and verify current official purchase opportunities."

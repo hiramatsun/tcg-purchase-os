@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain TCG Data"
+  short_description: "Normalize, deduplicate, and update purchase data"
+  default_prompt: "Use $maintain-tcg-data to normalize and update the repository purchase data."

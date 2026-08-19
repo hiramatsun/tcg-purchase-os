@@ -1,0 +1,51 @@
+schema_version: 1
+sources:
+  - id: pokemon-card-official-news
+    game: pokemon-card-game
+    name: ポケモンカードゲーム公式 ニュース
+    url: https://www.pokemon-card.com/info/
+    source_type: official-publisher
+    priority: high
+    status: candidate
+    last_verified_at: null
+  - id: pokemon-card-official-products
+    game: pokemon-card-game
+    name: ポケモンカードゲーム公式 商品情報
+    url: https://www.pokemon-card.com/products/
+    source_type: official-publisher
+    priority: high
+    status: candidate
+    last_verified_at: null
+  - id: one-piece-card-official-topics
+    game: one-piece-card-game
+    name: ONE PIECE CARD GAME 公式トピックス
+    url: https://www.onepiece-cardgame.com/topics/
+    source_type: official-publisher
+    priority: high
+    status: candidate
+    last_verified_at: null
+  - id: one-piece-card-official-products
+    game: one-piece-card-game
+    name: ONE PIECE CARD GAME 公式商品情報
+    url: https://www.onepiece-cardgame.com/products/
+    source_type: official-publisher
+    priority: high
+    status: candidate
+    last_verified_at: null
+  - id: fusion-world-official-news
+    game: dragon-ball-super-card-game-fusion-world
+    name: Fusion World 公式ニュース
+    url: https://www.dbs-cardgame.com/fw/jp/news/
+    source_type: official-publisher
+    priority: high
+    status: candidate
+    last_verified_at: null
+  - id: fusion-world-official-products
+    game: dragon-ball-super-card-game-fusion-world
+    name: Fusion World 公式商品情報
+    url: https://www.dbs-cardgame.com/fw/jp/products/
+    source_type: official-publisher
+    priority: high
+    status: candidate
+    last_verified_at: null
+

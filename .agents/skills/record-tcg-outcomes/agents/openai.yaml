@@ -1,0 +1,4 @@
+interface:
+  display_name: "Record TCG Outcomes"
+  short_description: "Record applications, results, and purchases consistently"
+  default_prompt: "Use $record-tcg-outcomes to record my latest application or purchase result."

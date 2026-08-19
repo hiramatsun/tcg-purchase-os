@@ -1,0 +1,4 @@
+interface:
+  display_name: "Report TCG Actions"
+  short_description: "Prioritize deadlines and prepare today action brief"
+  default_prompt: "Use $report-tcg-actions to prepare today purchase action brief."

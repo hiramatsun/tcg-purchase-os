@@ -106,8 +106,8 @@ TCGの購入情報は、メーカー公式サイト、店舗サイト、公式SN
 
 - [x] リポジトリ作成
 - [x] Mission、背景、原則、ロードマップをREADMEに定義
-- [ ] Codex向けのプロジェクト指示を定義
-- [ ] 初期ディレクトリとデータスキーマを作成
+- [x] Codex向けのプロジェクト指示を定義
+- [x] 初期ディレクトリとデータスキーマを作成
 
 ### M1 — Personal purchase OS
 
@@ -154,10 +154,16 @@ TCGの購入情報は、メーカー公式サイト、店舗サイト、公式SN
 ```text
 tcg-purchase-os/
 ├── AGENTS.md
+├── .codex/
+│   └── config.toml
+├── .agents/
+│   └── skills/
 ├── data/
+│   ├── preferences.yaml
 │   ├── sources.yaml
 │   ├── products.json
-│   └── opportunities.json
+│   ├── opportunities.json
+│   └── outcomes.json
 ├── docs/
 │   ├── purchase-rules.md
 │   └── data-model.md
@@ -197,4 +203,4 @@ tcg-purchase-os/
 
 ## Status
 
-現在は M0（Foundation）です。次は `AGENTS.md`、初期データスキーマ、監視情報源、購入ルールを定義し、最初の調査を実行します。
+現在は M0（Foundation）です。Codex のプロジェクト指示、repo Skill、初期データスキーマ、監視情報源、購入ルールを定義済みです。次は情報源を実地検証し、最初の調査を実行します。

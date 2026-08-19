@@ -1,0 +1,19 @@
+schema_version: 1
+timezone: Asia/Tokyo
+country: JP
+games:
+  - id: pokemon-card-game
+    enabled: true
+    priority: normal
+  - id: one-piece-card-game
+    enabled: true
+    priority: normal
+  - id: dragon-ball-super-card-game-fusion-world
+    enabled: true
+    priority: normal
+wanted_products: []
+preferred_retailers: []
+excluded_retailers: []
+budget_jpy: null
+notes: null
+
